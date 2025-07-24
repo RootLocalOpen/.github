@@ -16,7 +16,7 @@
   <a href="https://dotnet.microsoft.com/en-us/">
     <img alt=".NET 8" src="https://img.shields.io/badge/.NET-8-blueviolet?logo=dotnet&logoColor=white&style=flat-square">
   </a>
-  <a href="https://github.com/RootLocalOpen">
+  <a href="https://github.com/orgs/RootLocalOpen/repositories">
     <img alt="Open Source" src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
   </a>
 </p>
