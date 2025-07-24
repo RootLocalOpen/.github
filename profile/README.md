@@ -46,6 +46,11 @@ Here are some of the projects we’re currently developing:
 | **LocalSync**  | Cross-app background sync & data coordination service                       |
 | **RootUI**     | Reusable, beautiful UI components for Blazor, Avalonia, and MAUI            |
 | **LocalChat**  | Lightweight real-time chat built with SignalR and C#                        |
+| **OpenLMS**    | Open-source Learning Management System with modular frontends (Blazor, MAUI, Avalonia) and robust API |
+| **LocalTeamSystem** | Team management and collaboration platform with server, shared, and client modules |
+| **LocalShare API** | Backend API for fast, local-first file and message sharing |
+| **LocalShare Web** | Web client for LocalShare, enabling browser-based file and message sharing |
+| **LocalShare Mobile** | Mobile app for LocalShare, supporting cross-device LAN sharing |
 
 > Written in **C#**, powered by **.NET 8**, and works on **Windows, macOS, Android, Linux**.
 
@@ -53,10 +58,15 @@ Here are some of the projects we’re currently developing:
 
 ## Tech Stack Highlights
 
-- **.NET 8**, **ASP.NET Core**, **SignalR**, **EF Core**
-- **Avalonia**, **.NET MAUI**, **Blazor WebAssembly**
-- Clean architecture with shared core libraries
-- Optional Docker & local deployment tools
+- ⚙️ **.NET 8**, **ASP.NET Core**, **SignalR**, **EF Core**
+- 🟦 **Node.js**, **Express**, **Bun**
+- 🗄️ **PostgreSQL**, **Redis**
+- 🖥️ **Avalonia**, **.NET MAUI**, **Blazor WebAssembly**
+- 🌐 **React**, **Vite**, **Tailwind CSS**
+- 📱 **Expo**, **React Native**
+- 🧠 Clean architecture with shared core libraries
+- 🐳 Docker & local deployment tools
+- 🧪 **Jest**, **ESLint**, **Prettier**, **GitHub Actions**
 
 ---
 
