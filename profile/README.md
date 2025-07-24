@@ -53,10 +53,10 @@ Here are some of the projects we’re currently developing:
 
 ## Tech Stack Highlights
 
-- ⚙️ **.NET 8**, **ASP.NET Core**, **SignalR**, **EF Core**
-- 🖥️ **Avalonia**, **.NET MAUI**, **Blazor WebAssembly**
-- 🧠 Clean architecture with shared core libraries
-- 🐳 Optional Docker & local deployment tools
+- **.NET 8**, **ASP.NET Core**, **SignalR**, **EF Core**
+- **Avalonia**, **.NET MAUI**, **Blazor WebAssembly**
+- Clean architecture with shared core libraries
+- Optional Docker & local deployment tools
 
 ---
 
