@@ -52,7 +52,7 @@ Here are some of the projects we’re currently developing:
 | **LocalShare Web** | Web client for LocalShare, enabling browser-based file and message sharing |
 | **LocalShare Mobile** | Mobile app for LocalShare, supporting cross-device LAN sharing |
 
-> Written in **C#**, powered by **.NET 8**, and works on **Windows, macOS, Android, Linux**.
+> Written in **C#, C++, Node.js, React**, powered by **.NET 8**, and works on **Windows, macOS, Linux, Android, iOS, and Web**.
 
 ---
 
