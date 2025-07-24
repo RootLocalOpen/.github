@@ -23,7 +23,7 @@
 
 ---
 
-## Our Mission
+## 🚀 Our Mission
 
 > RootLocal builds modern, local-first apps designed to run where you operate — your LAN, your hardware, your rules.
 
@@ -35,18 +35,28 @@ We believe in building tools that are:
 
 ---
 
-## What We Build
+## 🛠️ What We Build
 
 Here are some of the projects we’re currently developing:
 
-| Project        | Description                                                                 |
-|----------------|-----------------------------------------------------------------------------|
+| Project                | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **LocalLMS**           | Local Management System for users, groups, chat, scheduling & more           |
+| **LocalShare**         | Fast, local-first file & message sharing over LAN                            |
+| **LocalSync**          | Cross-app background sync & data coordination service                        |
+| **RootUI**             | Reusable, beautiful UI components for Blazor, Avalonia, and MAUI             |
+| **LocalChat**          | Lightweight real-time chat built with SignalR and C#                         |
+| **OpenLMS**            | Open-source Learning Management System with modular frontends (Blazor, MAUI, Avalonia) and robust API |
+| **LocalTeamSystem**    | Team management and collaboration platform with server, shared, and client modules |
+| **LocalShare API**     | Backend API for fast, local-first file and message sharing                   |
+| **LocalShare Web**     | Web client for LocalShare, enabling browser-based file and message sharing    |
+| **LocalShare Mobile**  | Mobile app for LocalShare, supporting cross-device LAN sharing               |
 
 > Written in **C#, C++, Node.js, React**, powered by **.NET 8**, and works on **Windows, macOS, Linux, Android, iOS, and Web**.
 
 ---
 
-## Tech Stack Highlights
+## 🧰 Tech Stack Highlights
 
 - **.NET 8**, **ASP.NET Core**, **SignalR**, **EF Core**
 - **Node.js**, **Express**, **Bun**
@@ -60,7 +70,7 @@ Here are some of the projects we’re currently developing:
 
 ---
 
-## Philosophy
+## 💡 Philosophy
 
 We don't just build apps — we build platforms you can depend on without relying on the cloud:
 
@@ -71,17 +81,17 @@ We don't just build apps — we build platforms you can depend on without relyin
 
 ---
 
-## Get Involved
+## 🤝 Get Involved
 
 Whether you're a developer, self-hoster, or curious user, you're welcome here!
 
-- Star the repos you're interested in
-- Report issues or request features
-- Contribute code, docs, or feedback
+- ⭐ Star the repos you're interested in
+- 🐛 Report issues or request features
+- 🛠️ Contribute code, docs, or feedback
 
 ---
 
-## Contact
+## 📫 Contact
 
 - Twitter/X: Coming soon
 - Website: Coming soon
