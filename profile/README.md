@@ -57,7 +57,16 @@ Here are some of the projects we’re currently developing:
 
 | Project                | Description                                                                 | Links |
 |------------------------|-----------------------------------------------------------------------------|-------|
-
+| **LocalLMS**           | Local Management System for users, groups, chat, scheduling & more           | [Repo](https://github.com/RootLocalOpen/OpenLMS) |
+| **LocalShare**         | Fast, local-first file & message sharing over LAN                            | [Repo](https://github.com/RootLocalOpen/LocalShare) |
+| **LocalSync**          | Cross-app background sync & data coordination service                        |  |
+| **RootUI**             | Reusable, beautiful UI components for Blazor, Avalonia, and MAUI             |  |
+| **LocalChat**          | Lightweight real-time chat built with SignalR and C#                         |  |
+| **OpenLMS**            | Open-source Learning Management System with modular frontends (Blazor, MAUI, Avalonia) and robust API | [Repo](https://github.com/RootLocalOpen/OpenLMS) |
+| **LocalTeamSystem**    | Team management and collaboration platform with server, shared, and client modules |  |
+| **LocalShare API**     | Backend API for fast, local-first file and message sharing                   |  |
+| **LocalShare Web**     | Web client for LocalShare, enabling browser-based file and message sharing    |  |
+| **LocalShare Mobile**  | Mobile app for LocalShare, supporting cross-device LAN sharing               |  |
 
 > Written in **C#, C++, Node.js, React**, powered by **.NET 8**, and works on **Windows, macOS, Linux, Android, iOS, and Web**.
 
