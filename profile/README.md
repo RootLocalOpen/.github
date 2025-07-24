@@ -58,15 +58,15 @@ Here are some of the projects we’re currently developing:
 
 ## Tech Stack Highlights
 
-- ⚙️ **.NET 8**, **ASP.NET Core**, **SignalR**, **EF Core**
-- 🟦 **Node.js**, **Express**, **Bun**
-- 🗄️ **PostgreSQL**, **Redis**
-- 🖥️ **Avalonia**, **.NET MAUI**, **Blazor WebAssembly**
-- 🌐 **React**, **Vite**, **Tailwind CSS**
-- 📱 **Expo**, **React Native**
-- 🧠 Clean architecture with shared core libraries
-- 🐳 Docker & local deployment tools
-- 🧪 **Jest**, **ESLint**, **Prettier**, **GitHub Actions**
+- **.NET 8**, **ASP.NET Core**, **SignalR**, **EF Core**
+- **Node.js**, **Express**, **Bun**
+- **PostgreSQL**, **Redis**
+- **Avalonia**, **.NET MAUI**, **Blazor WebAssembly**
+- **React**, **Vite**, **Tailwind CSS**
+- **Expo**, **React Native**
+- Clean architecture with shared core libraries
+- Docker & local deployment tools
+- **Jest**, **ESLint**, **Prettier**, **GitHub Actions**
 
 ---
 
