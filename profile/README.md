@@ -25,7 +25,7 @@
 
 ## Our Mission
 
-> RootLocal builds modern, local-first apps designed to run where you live — your LAN, your hardware, your rules.
+> RootLocal builds modern, local-first apps designed to run where you operate — your LAN, your hardware, your rules.
 
 We believe in building tools that are:
 - **Offline-friendly** and fast
